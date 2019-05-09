@@ -10,3 +10,5 @@
 [YCRefreshView](https://github.com/yangchong211/YCRefreshView?utm_source=androidweekly.io&utm_medium=website) 
 自定义支持上拉加载更多，下拉刷新，可以自定义头部和底部
 
+[xCrash](https://github.com/Nightonke/CoCoin) 爱奇艺的安卓 APP 的崩溃捕获库。
+
